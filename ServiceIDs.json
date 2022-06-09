@@ -1,0 +1,4072 @@
+[
+    {
+        "Service ID":  "005",
+        "Service Short Name":  "DNS",
+        "Service Name":  "DNS Resolvers",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "5",
+        "HACNAME":  "DNS Resolvers"
+    },
+    {
+        "Service ID":  "006",
+        "Service Short Name":  "DNS",
+        "Service Name":  "DNS Master and Authoritatives",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "6",
+        "HACNAME":  "DNS Master and Authoritatives"
+    },
+    {
+        "Service ID":  "007",
+        "Service Short Name":  "SVS",
+        "Service Name":  "VI vCenter 6",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "7",
+        "HACNAME":  "VI vCenter 6"
+    },
+    {
+        "Service ID":  "008",
+        "Service Short Name":  "AD",
+        "Service Name":  "Active Directory (AD)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "8",
+        "HACNAME":  "Active Directory (AD)"
+    },
+    {
+        "Service ID":  "009",
+        "Service Short Name":  "ADL",
+        "Service Name":  "Adlib",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "9",
+        "HACNAME":  "Adlib"
+    },
+    {
+        "Service ID":  "010",
+        "Service Short Name":  "ATEM",
+        "Service Name":  "Atempo",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "10",
+        "HACNAME":  "Atempo"
+    },
+    {
+        "Service ID":  "011",
+        "Service Short Name":  "BLOG",
+        "Service Name":  "Blogs",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "11",
+        "HACNAME":  "Blogs"
+    },
+    {
+        "Service ID":  "012",
+        "Service Short Name":  "CAT",
+        "Service Name":  "CATDV",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "12",
+        "HACNAME":  "CATDV"
+    },
+    {
+        "Service ID":  "013",
+        "Service Short Name":  "IMGS",
+        "Service Name":  "Image Store (Mediafiler)",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "13",
+        "HACNAME":  "Image Store (Mediafiler)"
+    },
+    {
+        "Service ID":  "014",
+        "Service Short Name":  "ITU",
+        "Service Name":  "iTunesU",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "14",
+        "HACNAME":  "iTunesU"
+    },
+    {
+        "Service ID":  "015",
+        "Service Short Name":  "LC",
+        "Service Name":  "Lecturecast",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "15",
+        "HACNAME":  "Lecturecast"
+    },
+    {
+        "Service ID":  "016",
+        "Service Short Name":  "MC",
+        "Service Name":  "MediaCentral",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "01",
+        "HACSID":  "16",
+        "HACNAME":  "MediaCentral"
+    },
+    {
+        "Service ID":  "017",
+        "Service Short Name":  "MDL",
+        "Service Name":  "Moodle",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "17",
+        "HACNAME":  "Moodle"
+    },
+    {
+        "Service ID":  "020",
+        "Service Short Name":  "MYP",
+        "Service Name":  "MyPortfolio",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "20",
+        "HACNAME":  "MyPortfolio"
+    },
+    {
+        "Service ID":  "021",
+        "Service Short Name":  "OPI",
+        "Service Name":  "Opinio",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "21",
+        "HACNAME":  "Opinio"
+    },
+    {
+        "Service ID":  "022",
+        "Service Short Name":  "SWM",
+        "Service Name":  "Sawmill",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "22",
+        "HACNAME":  "Sawmill"
+    },
+    {
+        "Service ID":  "023",
+        "Service Short Name":  "STSC",
+        "Service Name":  "Streamscript",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "23",
+        "HACNAME":  "Streamscript"
+    },
+    {
+        "Service ID":  "024",
+        "Service Short Name":  "TURN",
+        "Service Name":  "Turnitin",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "24",
+        "HACNAME":  "Turnitin"
+    },
+    {
+        "Service ID":  "025",
+        "Service Short Name":  "VID",
+        "Service Name":  "VideoPortal",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "25",
+        "HACNAME":  "VideoPortal"
+    },
+    {
+        "Service ID":  "026",
+        "Service Short Name":  "WIKI",
+        "Service Name":  "Wiki",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "26",
+        "HACNAME":  "Wiki"
+    },
+    {
+        "Service ID":  "027",
+        "Service Short Name":  "WIRE",
+        "Service Name":  "Wirecast",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "27",
+        "HACNAME":  "Wirecast"
+    },
+    {
+        "Service ID":  "028",
+        "Service Short Name":  "WZA",
+        "Service Name":  "Wowza",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "28",
+        "HACNAME":  "Wowza"
+    },
+    {
+        "Service ID":  "030",
+        "Service Short Name":  "ASC",
+        "Service Name":  "Advance Smart Call",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "30",
+        "HACNAME":  "Advance Smart Call"
+    },
+    {
+        "Service ID":  "031",
+        "Service Short Name":  "AWC",
+        "Service Name":  "Alumni Web Community",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "31",
+        "HACNAME":  "Alumni Web Community"
+    },
+    {
+        "Service ID":  "032",
+        "Service Short Name":  "ARM",
+        "Service Name":  "Armis",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "32",
+        "HACNAME":  "Armis"
+    },
+    {
+        "Service ID":  "033",
+        "Service Short Name":  "AXS",
+        "Service Name":  "Access Systems",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "00",
+        "HACSID":  "33",
+        "HACNAME":  "Access Systems"
+    },
+    {
+        "Service ID":  "034",
+        "Service Short Name":  "CEEL",
+        "Service Name":  "CEELBAS",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "34",
+        "HACNAME":  "CEELBAS"
+    },
+    {
+        "Service ID":  "035",
+        "Service Short Name":  "CMIS",
+        "Service Name":  "CMIS",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "35",
+        "HACNAME":  "CMIS"
+    },
+    {
+        "Service ID":  "036",
+        "Service Short Name":  "EXP",
+        "Service Name":  "Experts",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "36",
+        "HACNAME":  "Experts"
+    },
+    {
+        "Service ID":  "037",
+        "Service Short Name":  "FMIS",
+        "Service Name":  "FAMIS",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "37",
+        "HACNAME":  "FAMIS"
+    },
+    {
+        "Service ID":  "038",
+        "Service Short Name":  "LMIS",
+        "Service Name":  "LAMIS",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "01",
+        "HACSID":  "38",
+        "HACNAME":  "LAMIS"
+    },
+    {
+        "Service ID":  "043",
+        "Service Short Name":  "OG",
+        "Service Name":  "Online Giving",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "43",
+        "HACNAME":  "Online Giving"
+    },
+    {
+        "Service ID":  "044",
+        "Service Short Name":  "OSHN",
+        "Service Name":  "OSHENS",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "44",
+        "HACNAME":  "OSHENS"
+    },
+    {
+        "Service ID":  "045",
+        "Service Short Name":  "RADI",
+        "Service Name":  "Radioactive Substances",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "45",
+        "HACNAME":  "Radioactive Substances"
+    },
+    {
+        "Service ID":  "046",
+        "Service Short Name":  "ROS",
+        "Service Name":  "Records Office System",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "46",
+        "HACNAME":  "Records Office System"
+    },
+    {
+        "Service ID":  "047",
+        "Service Short Name":  "SWDB",
+        "Service Name":  "Software Database",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "47",
+        "HACNAME":  "Software Database"
+    },
+    {
+        "Service ID":  "048",
+        "Service Short Name":  "STRZ",
+        "Service Name":  "StarRez",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "48",
+        "HACNAME":  "StarRez"
+    },
+    {
+        "Service ID":  "049",
+        "Service Short Name":  "SPS",
+        "Service Name":  "Student Psychological Services",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "49",
+        "HACNAME":  "Student Psychological Services"
+    },
+    {
+        "Service ID":  "050",
+        "Service Short Name":  "ALCH",
+        "Service Name":  "AllChange",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "50",
+        "HACNAME":  "AllChange"
+    },
+    {
+        "Service ID":  "051",
+        "Service Short Name":  "MNTS",
+        "Service Name":  "MANTIS",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "51",
+        "HACNAME":  "MANTIS"
+    },
+    {
+        "Service ID":  "053",
+        "Service Short Name":  "PORT",
+        "Service Name":  "Portico",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "53",
+        "HACNAME":  "Portico"
+    },
+    {
+        "Service ID":  "056",
+        "Service Short Name":  "CTG",
+        "Service Name":  "CTG Domain",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "56",
+        "HACNAME":  "CTG Domain"
+    },
+    {
+        "Service ID":  "059",
+        "Service Short Name":  "LMAV",
+        "Service Name":  "SLMS Anti Virus",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "59",
+        "HACNAME":  "SLMS Anti Virus"
+    },
+    {
+        "Service ID":  "060",
+        "Service Short Name":  "BIOB",
+        "Service Name":  "Bio Bank",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "60",
+        "HACNAME":  "Bio Bank"
+    },
+    {
+        "Service ID":  "061",
+        "Service Short Name":  "GMC",
+        "Service Name":  "GMC",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "61",
+        "HACNAME":  "GMC"
+    },
+    {
+        "Service ID":  "062",
+        "Service Short Name":  "FRZR",
+        "Service Name":  "Small Apps - ICH ICAN FreezerWorks",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "62",
+        "HACNAME":  "Small Apps - ICH ICAN FreezerWorks"
+    },
+    {
+        "Service ID":  "063",
+        "Service Short Name":  "CCTU",
+        "Service Name":  "CCTU Macro",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "63",
+        "HACNAME":  "CCTU Macro"
+    },
+    {
+        "Service ID":  "064",
+        "Service Short Name":  "OTRS",
+        "Service Name":  "SLMS OTRS",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "64",
+        "HACNAME":  "SLMS OTRS"
+    },
+    {
+        "Service ID":  "066",
+        "Service Short Name":  "CTG",
+        "Service Name":  "CTG Sharepoint",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "66",
+        "HACNAME":  "CTG Sharepoint"
+    },
+    {
+        "Service ID":  "067",
+        "Service Short Name":  "LMSS",
+        "Service Name":  "SLMS MS SQL Server Platform",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "67",
+        "HACNAME":  "SLMS MS SQL Server Platform"
+    },
+    {
+        "Service ID":  "068",
+        "Service Short Name":  "NAC",
+        "Service Name":  "NAC",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "68",
+        "HACNAME":  "NAC"
+    },
+    {
+        "Service ID":  "069",
+        "Service Short Name":  "LMPS",
+        "Service Name":  "SLMS Print Service",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "69",
+        "HACNAME":  "SLMS Print Service"
+    },
+    {
+        "Service ID":  "070",
+        "Service Short Name":  "QPLS",
+        "Service Name":  "QPulse",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "70",
+        "HACNAME":  "QPulse"
+    },
+    {
+        "Service ID":  "071",
+        "Service Short Name":  "CTS",
+        "Service Name":  "CTS App",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "71",
+        "HACNAME":  "CTS App"
+    },
+    {
+        "Service ID":  "072",
+        "Service Short Name":  "TSCA",
+        "Service Name":  "TScan",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "72",
+        "HACNAME":  "TScan"
+    },
+    {
+        "Service ID":  "073",
+        "Service Short Name":  "LMU",
+        "Service Name":  "SLMS Utilities",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "73",
+        "HACNAME":  "SLMS Utilities"
+    },
+    {
+        "Service ID":  "074",
+        "Service Short Name":  "LMI",
+        "Service Name":  "SLMS Imaging",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "74",
+        "HACNAME":  "SLMS Imaging"
+    },
+    {
+        "Service ID":  "075",
+        "Service Short Name":  "UCLP",
+        "Service Name":  "UCLP Domain",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "03",
+        "HACSID":  "75",
+        "HACNAME":  "UCLP Domain"
+    },
+    {
+        "Service ID":  "076",
+        "Service Short Name":  "UCLP",
+        "Service Name":  "UCLP HR",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "03",
+        "HACSID":  "76",
+        "HACNAME":  "UCLP HR"
+    },
+    {
+        "Service ID":  "077",
+        "Service Short Name":  "LMHC",
+        "Service Name":  "SLMS DHCP",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "77",
+        "HACNAME":  "SLMS DHCP"
+    },
+    {
+        "Service ID":  "079",
+        "Service Short Name":  "PRIM",
+        "Service Name":  "Priment",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "79",
+        "HACNAME":  "Priment"
+    },
+    {
+        "Service ID":  "080",
+        "Service Short Name":  "RDCP",
+        "Service Name":  "RedCap",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "80",
+        "HACNAME":  "RedCap"
+    },
+    {
+        "Service ID":  "081",
+        "Service Short Name":  "CMP",
+        "Service Name":  "Small Apps - CMP",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "81",
+        "HACNAME":  "Small Apps - CMP"
+    },
+    {
+        "Service ID":  "082",
+        "Service Short Name":  "BRIT",
+        "Service Name":  "Small Apps - Brit",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "82",
+        "HACNAME":  "Small Apps - Brit"
+    },
+    {
+        "Service ID":  "083",
+        "Service Short Name":  "SASB",
+        "Service Name":  "Small Apps - Sign Bank",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "83",
+        "HACNAME":  "Small Apps - Sign Bank"
+    },
+    {
+        "Service ID":  "084",
+        "Service Short Name":  "CHEL",
+        "Service Name":  "Small Apps - Chell",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "84",
+        "HACNAME":  "Small Apps - Chell"
+    },
+    {
+        "Service ID":  "085",
+        "Service Short Name":  "ICHM",
+        "Service Name":  "Small Apps - ICH MMU",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "85",
+        "HACNAME":  "Small Apps - ICH MMU"
+    },
+    {
+        "Service ID":  "086",
+        "Service Short Name":  "EIDP",
+        "Service Name":  "Small Apps - EIDP",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "86",
+        "HACNAME":  "Small Apps - EIDP"
+    },
+    {
+        "Service ID":  "087",
+        "Service Short Name":  "IIRB",
+        "Service Name":  "Infection & Immunity - Room B.",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "87",
+        "HACNAME":  "Infection & Immunity - Room B."
+    },
+    {
+        "Service ID":  "088",
+        "Service Short Name":  "FRMA",
+        "Service Name":  "Form Assembly",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "88",
+        "HACNAME":  "Form Assembly"
+    },
+    {
+        "Service ID":  "089",
+        "Service Short Name":  "IPAH",
+        "Service Name":  "EyePath",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "89",
+        "HACNAME":  "EyePath"
+    },
+    {
+        "Service ID":  "090",
+        "Service Short Name":  "CHIM",
+        "Service Name":  "CHIME",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "90",
+        "HACNAME":  "CHIME"
+    },
+    {
+        "Service ID":  "091",
+        "Service Short Name":  "LIMS",
+        "Service Name":  "Small Apps - Autoscribe LIMS",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "91",
+        "HACNAME":  "Small Apps - Autoscribe LIMS"
+    },
+    {
+        "Service ID":  "092",
+        "Service Short Name":  "DCNM",
+        "Service Name":  "DCNM",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "92",
+        "HACNAME":  "DCNM"
+    },
+    {
+        "Service ID":  "093",
+        "Service Short Name":  "BOXI",
+        "Service Name":  "Business Objects XI",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "93",
+        "HACNAME":  "Business Objects XI"
+    },
+    {
+        "Service ID":  "095",
+        "Service Short Name":  "EDRM",
+        "Service Name":  "Documentum",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "95",
+        "HACNAME":  "Documentum"
+    },
+    {
+        "Service ID":  "099",
+        "Service Short Name":  "MYAC",
+        "Service Name":  "MyAccount",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "99",
+        "HACNAME":  "MyAccount"
+    },
+    {
+        "Service ID":  "101",
+        "Service Short Name":  "RF",
+        "Service Name":  "RemedyForce",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "101",
+        "HACNAME":  "RemedyForce"
+    },
+    {
+        "Service ID":  "103",
+        "Service Short Name":  "PRNT",
+        "Service Name":  "Print@UCL",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "103",
+        "HACNAME":  "Print@UCL"
+    },
+    {
+        "Service ID":  "104",
+        "Service Short Name":  "EVNT",
+        "Service Name":  "Events Calendar",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "104",
+        "HACNAME":  "Events Calendar"
+    },
+    {
+        "Service ID":  "105",
+        "Service Short Name":  "FNNL",
+        "Service Name":  "Funnelback",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "105",
+        "HACNAME":  "Funnelback"
+    },
+    {
+        "Service ID":  "106",
+        "Service Short Name":  "UGO",
+        "Service Name":  "UCLgo",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "106",
+        "HACNAME":  "UCLgo"
+    },
+    {
+        "Service ID":  "107",
+        "Service Short Name":  "BIQ",
+        "Service Name":  "BigIQ",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "107",
+        "HACNAME":  "BigIQ"
+    },
+    {
+        "Service ID":  "108",
+        "Service Short Name":  "UDBX",
+        "Service Name":  "Dropbox",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "108",
+        "HACNAME":  "Dropbox"
+    },
+    {
+        "Service ID":  "109",
+        "Service Short Name":  "IRIS",
+        "Service Name":  "IRIS",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "109",
+        "HACNAME":  "IRIS"
+    },
+    {
+        "Service ID":  "110",
+        "Service Short Name":  "RPA",
+        "Service Name":  "Research - Pre Award",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "110",
+        "HACNAME":  "Research - Pre Award"
+    },
+    {
+        "Service ID":  "111",
+        "Service Short Name":  "REQ",
+        "Service Name":  "Research Equipment Catalogue",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "111",
+        "HACNAME":  "Research Equipment Catalogue"
+    },
+    {
+        "Service ID":  "112",
+        "Service Short Name":  "RLOG",
+        "Service Name":  "Research Log",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "112",
+        "HACNAME":  "Research Log"
+    },
+    {
+        "Service ID":  "113",
+        "Service Short Name":  "RPS",
+        "Service Name":  "RPS",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "113",
+        "HACNAME":  "RPS"
+    },
+    {
+        "Service ID":  "114",
+        "Service Short Name":  "UDIS",
+        "Service Name":  "UCL Discovery",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "114",
+        "HACNAME":  "UCL Discovery"
+    },
+    {
+        "Service ID":  "115",
+        "Service Short Name":  "RSWD",
+        "Service Name":  "Research SW development",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "115",
+        "HACNAME":  "Research SW development"
+    },
+    {
+        "Service ID":  "116",
+        "Service Short Name":  "RCPM",
+        "Service Name":  "Research Config and Patch Management",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "116",
+        "HACNAME":  "Research Config and Patch Management"
+    },
+    {
+        "Service ID":  "117",
+        "Service Short Name":  "RC",
+        "Service Name":  "Research Computing",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "117",
+        "HACNAME":  "Research Computing"
+    },
+    {
+        "Service ID":  "118",
+        "Service Short Name":  "RC",
+        "Service Name":  "Research Computing Wiki",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "118",
+        "HACNAME":  "Research Computing Wiki"
+    },
+    {
+        "Service ID":  "119",
+        "Service Short Name":  "RSML",
+        "Service Name":  "Research Staff Mailing List",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "119",
+        "HACNAME":  "Research Staff Mailing List"
+    },
+    {
+        "Service ID":  "120",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Antivirus",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "120",
+        "HACNAME":  "MRC Antivirus"
+    },
+    {
+        "Service ID":  "121",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Application Server",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "121",
+        "HACNAME":  "MRC Application Server"
+    },
+    {
+        "Service ID":  "122",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Content Management Server",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "122",
+        "HACNAME":  "MRC Content Management Server"
+    },
+    {
+        "Service ID":  "123",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC database service",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "123",
+        "HACNAME":  "MRC database service"
+    },
+    {
+        "Service ID":  "124",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC domain",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "124",
+        "HACNAME":  "MRC domain"
+    },
+    {
+        "Service ID":  "125",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Enf Point Encryption",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "125",
+        "HACNAME":  "MRC Enf Point Encryption"
+    },
+    {
+        "Service ID":  "126",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Halcyon",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "126",
+        "HACNAME":  "MRC LHA Halcyon"
+    },
+    {
+        "Service ID":  "128",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Macro",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "128",
+        "HACNAME":  "MRC Macro"
+    },
+    {
+        "Service ID":  "129",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Macro Legacy",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "129",
+        "HACNAME":  "MRC Macro Legacy"
+    },
+    {
+        "Service ID":  "130",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Patching and Configuration",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "130",
+        "HACNAME":  "MRC Patching and Configuration"
+    },
+    {
+        "Service ID":  "131",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Print Service",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "131",
+        "HACNAME":  "MRC Print Service"
+    },
+    {
+        "Service ID":  "132",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Reg. Compliance. SOPhocles",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "132",
+        "HACNAME":  "MRC Reg. Compliance. SOPhocles"
+    },
+    {
+        "Service ID":  "133",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Remote FileStore",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "133",
+        "HACNAME":  "MRC Remote FileStore"
+    },
+    {
+        "Service ID":  "134",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Room Booking",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "134",
+        "HACNAME":  "MRC Room Booking"
+    },
+    {
+        "Service ID":  "135",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC SMTP",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "135",
+        "HACNAME":  "MRC SMTP"
+    },
+    {
+        "Service ID":  "136",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Terminal Service",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "136",
+        "HACNAME":  "MRC Terminal Service"
+    },
+    {
+        "Service ID":  "137",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Trials Website Prod",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "137",
+        "HACNAME":  "MRC Trials Website Prod"
+    },
+    {
+        "Service ID":  "138",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Wiki",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "138",
+        "HACNAME":  "MRC Wiki"
+    },
+    {
+        "Service ID":  "139",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Monitoring",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "139",
+        "HACNAME":  "MRC Monitoring"
+    },
+    {
+        "Service ID":  "140",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Sharepoint",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "140",
+        "HACNAME":  "MRC Sharepoint"
+    },
+    {
+        "Service ID":  "141",
+        "Service Short Name":  "ALPH",
+        "Service Name":  "Aleph",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "141",
+        "HACNAME":  "Aleph"
+    },
+    {
+        "Service ID":  "142",
+        "Service Short Name":  "DART",
+        "Service Name":  "DART",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "142",
+        "HACNAME":  "DART"
+    },
+    {
+        "Service ID":  "143",
+        "Service Short Name":  "DIGI",
+        "Service Name":  "Digitool",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "143",
+        "HACNAME":  "Digitool"
+    },
+    {
+        "Service ID":  "145",
+        "Service Short Name":  "EJRN",
+        "Service Name":  "eJournal",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "145",
+        "HACNAME":  "eJournal"
+    },
+    {
+        "Service ID":  "147",
+        "Service Short Name":  "EJRN",
+        "Service Name":  "ejournals (Metalib Prod)",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "147",
+        "HACNAME":  "ejournals (Metalib Prod)"
+    },
+    {
+        "Service ID":  "148",
+        "Service Short Name":  "EACC",
+        "Service Name":  "eAccess",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "148",
+        "HACNAME":  "eAccess"
+    },
+    {
+        "Service ID":  "150",
+        "Service Short Name":  "EJRN",
+        "Service Name":  "ejournals (SFX)",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "150",
+        "HACNAME":  "ejournals (SFX)"
+    },
+    {
+        "Service ID":  "151",
+        "Service Short Name":  "LIBF",
+        "Service Name":  "Library flexitime",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "151",
+        "HACNAME":  "Library flexitime"
+    },
+    {
+        "Service ID":  "152",
+        "Service Short Name":  "LIBR",
+        "Service Name":  "Library reading list",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "152",
+        "HACNAME":  "Library reading list"
+    },
+    {
+        "Service ID":  "153",
+        "Service Short Name":  "LIBS",
+        "Service Name":  "Library services card catalogue",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "153",
+        "HACNAME":  "Library services card catalogue"
+    },
+    {
+        "Service ID":  "154",
+        "Service Short Name":  "LIBW",
+        "Service Name":  "Library walk-in journal access",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "154",
+        "HACNAME":  "Library walk-in journal access"
+    },
+    {
+        "Service ID":  "155",
+        "Service Short Name":  "OJS",
+        "Service Name":  "Open journal system",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "155",
+        "HACNAME":  "Open journal system"
+    },
+    {
+        "Service ID":  "156",
+        "Service Short Name":  "OMP",
+        "Service Name":  "Open monograph press",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "156",
+        "HACNAME":  "Open monograph press"
+    },
+    {
+        "Service ID":  "157",
+        "Service Short Name":  "RPOX",
+        "Service Name":  "REPOX",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "157",
+        "HACNAME":  "REPOX"
+    },
+    {
+        "Service ID":  "158",
+        "Service Short Name":  "SHRP",
+        "Service Name":  "Sherpa LEAP",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "158",
+        "HACNAME":  "Sherpa LEAP"
+    },
+    {
+        "Service ID":  "159",
+        "Service Short Name":  "ULAM",
+        "Service Name":  "UCL Library Archive Management",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "159",
+        "HACNAME":  "UCL Library Archive Management"
+    },
+    {
+        "Service ID":  "160",
+        "Service Short Name":  "VRDE",
+        "Service Name":  "Verde",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "160",
+        "HACNAME":  "Verde"
+    },
+    {
+        "Service ID":  "161",
+        "Service Short Name":  "HRR",
+        "Service Name":  "HR Roles",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "161",
+        "HACNAME":  "HR Roles"
+    },
+    {
+        "Service ID":  "162",
+        "Service Short Name":  "HRU",
+        "Service Name":  "HR Utilities",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "162",
+        "HACNAME":  "HR Utilities"
+    },
+    {
+        "Service ID":  "163",
+        "Service Short Name":  "HR",
+        "Service Name":  "HR (NorthGate)",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "163",
+        "HACNAME":  "HR (NorthGate)"
+    },
+    {
+        "Service ID":  "164",
+        "Service Short Name":  "SPS",
+        "Service Name":  "SPS - Legacy HR",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "164",
+        "HACNAME":  "SPS - Legacy HR"
+    },
+    {
+        "Service ID":  "165",
+        "Service Short Name":  "ACSR",
+        "Service Name":  "Academic Staff Common Room",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "165",
+        "HACNAME":  "Academic Staff Common Room"
+    },
+    {
+        "Service ID":  "166",
+        "Service Short Name":  "DAM",
+        "Service Name":  "Departmental Admin Module",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "166",
+        "HACNAME":  "Departmental Admin Module"
+    },
+    {
+        "Service ID":  "167",
+        "Service Short Name":  "AXIM",
+        "Service Name":  "Axiom",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "167",
+        "HACNAME":  "Axiom"
+    },
+    {
+        "Service ID":  "168",
+        "Service Short Name":  "MYF",
+        "Service Name":  "MyFinance",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "168",
+        "HACNAME":  "MyFinance"
+    },
+    {
+        "Service ID":  "169",
+        "Service Short Name":  "ODEX",
+        "Service Name":  "ODEX Service",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "169",
+        "HACNAME":  "ODEX Service"
+    },
+    {
+        "Service ID":  "170",
+        "Service Short Name":  "PACE",
+        "Service Name":  "PACE",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "170",
+        "HACNAME":  "PACE"
+    },
+    {
+        "Service ID":  "171",
+        "Service Short Name":  "PAR",
+        "Service Name":  "Professional Appraisal Review",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "171",
+        "HACNAME":  "Professional Appraisal Review"
+    },
+    {
+        "Service ID":  "172",
+        "Service Short Name":  "HRRS",
+        "Service Name":  "Redeployment System",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "172",
+        "HACNAME":  "Redeployment System"
+    },
+    {
+        "Service ID":  "173",
+        "Service Short Name":  "ROME",
+        "Service Name":  "ROME",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "173",
+        "HACNAME":  "ROME"
+    },
+    {
+        "Service ID":  "174",
+        "Service Short Name":  "HRSP",
+        "Service Name":  "Senior Promotions",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "174",
+        "HACNAME":  "Senior Promotions"
+    },
+    {
+        "Service ID":  "175",
+        "Service Short Name":  "SIP",
+        "Service Name":  "SIP",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "175",
+        "HACNAME":  "SIP"
+    },
+    {
+        "Service ID":  "176",
+        "Service Short Name":  "TRS",
+        "Service Name":  "Total Rewards System (TRS)",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "176",
+        "HACNAME":  "Total Rewards System (TRS)"
+    },
+    {
+        "Service ID":  "177",
+        "Service Short Name":  "UPAY",
+        "Service Name":  "UPAY Legacy Payroll",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "177",
+        "HACNAME":  "UPAY Legacy Payroll"
+    },
+    {
+        "Service ID":  "178",
+        "Service Short Name":  "SVS",
+        "Service Name":  "VM Testing",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "178",
+        "HACNAME":  "VM Testing"
+    },
+    {
+        "Service ID":  "179",
+        "Service Short Name":  "ISG",
+        "Service Name":  "ISG Infrastructure & Operations",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "179",
+        "HACNAME":  "ISG Infrastructure & Operations"
+    },
+    {
+        "Service ID":  "180",
+        "Service Short Name":  "ORPS",
+        "Service Name":  "eduroam ORPS",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "180",
+        "HACNAME":  "eduroam ORPS"
+    },
+    {
+        "Service ID":  "184",
+        "Service Short Name":  "DNS",
+        "Service Name":  "DNS & Email Blacklist servers",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "184",
+        "HACNAME":  "DNS & Email Blacklist servers"
+    },
+    {
+        "Service ID":  "185",
+        "Service Short Name":  "DNS",
+        "Service Name":  "DNS RPZ Web server",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "185",
+        "HACNAME":  "DNS RPZ Web server"
+    },
+    {
+        "Service ID":  "186",
+        "Service Short Name":  "WWW",
+        "Service Name":  "Web - backend (wwwapps-a.ucl.ac.uk)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "186",
+        "HACNAME":  "Web - backend (wwwapps-a.ucl.ac.uk)"
+    },
+    {
+        "Service ID":  "187",
+        "Service Short Name":  "WWW",
+        "Service Name":  "Web - backend (wwwdepts-a)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "187",
+        "HACNAME":  "Web - backend (wwwdepts-a)"
+    },
+    {
+        "Service ID":  "188",
+        "Service Short Name":  "WWW",
+        "Service Name":  "Web - frontend (wwwr)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "188",
+        "HACNAME":  "Web - frontend (wwwr)"
+    },
+    {
+        "Service ID":  "189",
+        "Service Short Name":  "WWW",
+        "Service Name":  "Web? - General (wwwt)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "189",
+        "HACNAME":  "Web? - General (wwwt)"
+    },
+    {
+        "Service ID":  "190",
+        "Service Short Name":  "OLDP",
+        "Service Name":  "OpenLDAP",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "190",
+        "HACNAME":  "OpenLDAP"
+    },
+    {
+        "Service ID":  "192",
+        "Service Short Name":  "PLDP",
+        "Service Name":  "Public LDAP",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "192",
+        "HACNAME":  "Public LDAP"
+    },
+    {
+        "Service ID":  "193",
+        "Service Short Name":  "CAS",
+        "Service Name":  "SSO - CAS",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "193",
+        "HACNAME":  "SSO - CAS"
+    },
+    {
+        "Service ID":  "194",
+        "Service Short Name":  "SHIB",
+        "Service Name":  "SSO - Shibboleth",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "194",
+        "HACNAME":  "SSO - Shibboleth"
+    },
+    {
+        "Service ID":  "195",
+        "Service Short Name":  "MAIL",
+        "Service Name":  "Email - External",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "195",
+        "HACNAME":  "Email - External"
+    },
+    {
+        "Service ID":  "196",
+        "Service Short Name":  "SMTP",
+        "Service Name":  "Internal SMTP service",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "196",
+        "HACNAME":  "Internal SMTP service"
+    },
+    {
+        "Service ID":  "199",
+        "Service Short Name":  "LIBP",
+        "Service Name":  "Libproxy",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "199",
+        "HACNAME":  "Libproxy"
+    },
+    {
+        "Service ID":  "200",
+        "Service Short Name":  "LIBP",
+        "Service Name":  "Alumni Libproxy",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "200",
+        "HACNAME":  "Alumni Libproxy"
+    },
+    {
+        "Service ID":  "201",
+        "Service Short Name":  "MIM",
+        "Service Name":  "FIM/MIM - Provisioning Services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "201",
+        "HACNAME":  "FIM/MIM - Provisioning Services"
+    },
+    {
+        "Service ID":  "202",
+        "Service Short Name":  "GIT",
+        "Service Name":  "Web development - GitLab",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "202",
+        "HACNAME":  "Web development - GitLab"
+    },
+    {
+        "Service ID":  "203",
+        "Service Short Name":  "IPT",
+        "Service Name":  "IPT (Publishers)",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "203",
+        "HACNAME":  "IPT (Publishers)"
+    },
+    {
+        "Service ID":  "204",
+        "Service Short Name":  "IPT",
+        "Service Name":  "IPT (subscribers)",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "204",
+        "HACNAME":  "IPT (subscribers)"
+    },
+    {
+        "Service ID":  "205",
+        "Service Short Name":  "JABR",
+        "Service Name":  "Jabber",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "205",
+        "HACNAME":  "Jabber"
+    },
+    {
+        "Service ID":  "206",
+        "Service Short Name":  "NETC",
+        "Service Name":  "NetCall (Liberty)",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "206",
+        "HACNAME":  "NetCall (Liberty)"
+    },
+    {
+        "Service ID":  "207",
+        "Service Short Name":  "UNTY",
+        "Service Name":  "Unity (Voicemail)",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "207",
+        "HACNAME":  "Unity (Voicemail)"
+    },
+    {
+        "Service ID":  "208",
+        "Service Short Name":  "VOIP",
+        "Service Name":  "VoIP Comms managers",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "208",
+        "HACNAME":  "VoIP Comms managers"
+    },
+    {
+        "Service ID":  "209",
+        "Service Short Name":  "TACS",
+        "Service Name":  "TACACS (TFTP)",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "209",
+        "HACNAME":  "TACACS (TFTP)"
+    },
+    {
+        "Service ID":  "210",
+        "Service Short Name":  "GSLB",
+        "Service Name":  "Netscaler (GSLB)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "210",
+        "HACNAME":  "Netscaler (GSLB)"
+    },
+    {
+        "Service ID":  "211",
+        "Service Short Name":  "SLB",
+        "Service Name":  "Netscaler (SLB)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "211",
+        "HACNAME":  "Netscaler (SLB)"
+    },
+    {
+        "Service ID":  "213",
+        "Service Short Name":  "LOG",
+        "Service Name":  "Logging Server (NWG)",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "213",
+        "HACNAME":  "Logging Server (NWG)"
+    },
+    {
+        "Service ID":  "214",
+        "Service Short Name":  "NDIS",
+        "Service Name":  "Netdisco",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "214",
+        "HACNAME":  "Netdisco"
+    },
+    {
+        "Service ID":  "215",
+        "Service Short Name":  "OBSI",
+        "Service Name":  "Observium",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "215",
+        "HACNAME":  "Observium"
+    },
+    {
+        "Service ID":  "216",
+        "Service Short Name":  "ITRC",
+        "Service Name":  "iTRACS",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "216",
+        "HACNAME":  "iTRACS"
+    },
+    {
+        "Service ID":  "217",
+        "Service Short Name":  "VPN",
+        "Service Name":  "Remote Access VPN",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "217",
+        "HACNAME":  "Remote Access VPN"
+    },
+    {
+        "Service ID":  "218",
+        "Service Short Name":  "FWL",
+        "Service Name":  "Stateful firewalling",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "218",
+        "HACNAME":  "Stateful firewalling"
+    },
+    {
+        "Service ID":  "220",
+        "Service Short Name":  "DHCP",
+        "Service Name":  "DHCP (Central - RHEL)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "220",
+        "HACNAME":  "DHCP (Central - RHEL)"
+    },
+    {
+        "Service ID":  "221",
+        "Service Short Name":  "NTP",
+        "Service Name":  "NTP",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "221",
+        "HACNAME":  "NTP"
+    },
+    {
+        "Service ID":  "222",
+        "Service Short Name":  "NAGI",
+        "Service Name":  "Nagios - Naemon",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "222",
+        "HACNAME":  "Nagios - Naemon"
+    },
+    {
+        "Service ID":  "223",
+        "Service Short Name":  "SCOM",
+        "Service Name":  "SCOM (Central - DCS)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "223",
+        "HACNAME":  "SCOM (Central - DCS)"
+    },
+    {
+        "Service ID":  "224",
+        "Service Short Name":  "PPPT",
+        "Service Name":  "Puppet",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "224",
+        "HACNAME":  "Puppet"
+    },
+    {
+        "Service ID":  "225",
+        "Service Short Name":  "SAT",
+        "Service Name":  "RHEL - Satellite",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "225",
+        "HACNAME":  "RHEL - Satellite"
+    },
+    {
+        "Service ID":  "226",
+        "Service Short Name":  "LIC",
+        "Service Name":  "Licensing (Central DCS)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "226",
+        "HACNAME":  "Licensing (Central DCS)"
+    },
+    {
+        "Service ID":  "227",
+        "Service Short Name":  "SLVA",
+        "Service Name":  "SILVA",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "227",
+        "HACNAME":  "SILVA"
+    },
+    {
+        "Service ID":  "228",
+        "Service Short Name":  "O365",
+        "Service Name":  "Provisioning Services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "228",
+        "HACNAME":  "Provisioning Services"
+    },
+    {
+        "Service ID":  "229",
+        "Service Short Name":  "WEBL",
+        "Service Name":  "Weblogic",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "229",
+        "HACNAME":  "Weblogic"
+    },
+    {
+        "Service ID":  "230",
+        "Service Short Name":  "TCAT",
+        "Service Name":  "Tomcat (alpha)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "230",
+        "HACNAME":  "Tomcat (alpha)"
+    },
+    {
+        "Service ID":  "232",
+        "Service Short Name":  "TCAT",
+        "Service Name":  "Tomcat (docker)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "232",
+        "HACNAME":  "Tomcat (docker)"
+    },
+    {
+        "Service ID":  "234",
+        "Service Short Name":  "ADC",
+        "Service Name":  "ADC Prod Test 1",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "234",
+        "HACNAME":  "ADC Prod Test 1"
+    },
+    {
+        "Service ID":  "235",
+        "Service Short Name":  "ADC",
+        "Service Name":  "ADC Prod Test 2",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "235",
+        "HACNAME":  "ADC Prod Test 2"
+    },
+    {
+        "Service ID":  "237",
+        "Service Short Name":  "BAR",
+        "Service Name":  "Backup - TSM",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "237",
+        "HACNAME":  "Backup - TSM"
+    },
+    {
+        "Service ID":  "240",
+        "Service Short Name":  "VRN",
+        "Service Name":  "Varnish cache",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "240",
+        "HACNAME":  "Varnish cache"
+    },
+    {
+        "Service ID":  "242",
+        "Service Short Name":  "CMS",
+        "Service Name":  "CMS - Drupal",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "242",
+        "HACNAME":  "CMS - Drupal"
+    },
+    {
+        "Service ID":  "243",
+        "Service Short Name":  "FWL",
+        "Service Name":  "FortiManager",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "243",
+        "HACNAME":  "FortiManager"
+    },
+    {
+        "Service ID":  "244",
+        "Service Short Name":  "OUR",
+        "Service Name":  "Online User Registration",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "244",
+        "HACNAME":  "Online User Registration"
+    },
+    {
+        "Service ID":  "249",
+        "Service Short Name":  "UCLP",
+        "Service Name":  "UCLP SAGE",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "03",
+        "HACSID":  "249",
+        "HACNAME":  "UCLP SAGE"
+    },
+    {
+        "Service ID":  "251",
+        "Service Short Name":  "FTS",
+        "Service Name":  "File Transfer Service",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "251",
+        "HACNAME":  "File Transfer Service"
+    },
+    {
+        "Service ID":  "252",
+        "Service Short Name":  "CTG",
+        "Service Name":  "Active Directory (CTG)",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "252",
+        "HACNAME":  "Active Directory (CTG)"
+    },
+    {
+        "Service ID":  "253",
+        "Service Short Name":  "CTG",
+        "Service Name":  "File & Print (CTG)",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "253",
+        "HACNAME":  "File & Print (CTG)"
+    },
+    {
+        "Service ID":  "255",
+        "Service Short Name":  "MACR",
+        "Service Name":  "Macro",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "255",
+        "HACNAME":  "Macro"
+    },
+    {
+        "Service ID":  "256",
+        "Service Short Name":  "CTG",
+        "Service Name":  "Teleform (CTG)",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "256",
+        "HACNAME":  "Teleform (CTG)"
+    },
+    {
+        "Service ID":  "257",
+        "Service Short Name":  "CTG",
+        "Service Name":  "Terminal Services (CTG)",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "04",
+        "HACSID":  "257",
+        "HACNAME":  "Terminal Services (CTG)"
+    },
+    {
+        "Service ID":  "258",
+        "Service Short Name":  "FUCL",
+        "Service Name":  "NetApp",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "04",
+        "HACSID":  "258",
+        "HACNAME":  "NetApp"
+    },
+    {
+        "Service ID":  "260",
+        "Service Short Name":  "UCLP",
+        "Service Name":  "File Servers (UCLP)",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "03",
+        "HACSID":  "260",
+        "HACNAME":  "File Servers (UCLP)"
+    },
+    {
+        "Service ID":  "261",
+        "Service Short Name":  "UD",
+        "Service Name":  "D@U SCCM",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "261",
+        "HACNAME":  "D@U SCCM"
+    },
+    {
+        "Service ID":  "263",
+        "Service Short Name":  "ORAC",
+        "Service Name":  "Oracle Database Platform",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "263",
+        "HACNAME":  "Oracle Database Platform"
+    },
+    {
+        "Service ID":  "265",
+        "Service Short Name":  "MYDB",
+        "Service Name":  "MySQL Database Platform",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "265",
+        "HACNAME":  "MySQL Database Platform"
+    },
+    {
+        "Service ID":  "269",
+        "Service Short Name":  "DBT",
+        "Service Name":  "DB Tools",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "269",
+        "HACNAME":  "DB Tools"
+    },
+    {
+        "Service ID":  "271",
+        "Service Short Name":  "DCIM",
+        "Service Name":  "Datacentre Infrastructure Management/Monitoring",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "271",
+        "HACNAME":  "Datacentre Infrastructure Management/Monitoring"
+    },
+    {
+        "Service ID":  "284",
+        "Service Short Name":  "OID",
+        "Service Name":  "Oracle Internet Directory",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "284",
+        "HACNAME":  "Oracle Internet Directory"
+    },
+    {
+        "Service ID":  "286",
+        "Service Short Name":  "CPLN",
+        "Service Name":  "Corporate Planner",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "286",
+        "HACNAME":  "Corporate Planner"
+    },
+    {
+        "Service ID":  "288",
+        "Service Short Name":  "ODSW",
+        "Service Name":  "Operational Data Store Webservices",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "288",
+        "HACNAME":  "Operational Data Store Webservices"
+    },
+    {
+        "Service ID":  "293",
+        "Service Short Name":  "WWW",
+        "Service Name":  "Web - backend (wwwapps-uat-a.ucl.ac.uk)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "293",
+        "HACNAME":  "Web - backend (wwwapps-uat-a.ucl.ac.uk)"
+    },
+    {
+        "Service ID":  "294",
+        "Service Short Name":  "WWW",
+        "Service Name":  "Web - backend wwwdepts-uat-a)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "294",
+        "HACNAME":  "Web - backend wwwdepts-uat-a)"
+    },
+    {
+        "Service ID":  "295",
+        "Service Short Name":  "HIFU",
+        "Service Name":  "Small Apps - HIFU Registry",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "295",
+        "HACNAME":  "Small Apps - HIFU Registry"
+    },
+    {
+        "Service ID":  "296",
+        "Service Short Name":  "WWW",
+        "Service Name":  "wwwr PP",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "296",
+        "HACNAME":  "wwwr PP"
+    },
+    {
+        "Service ID":  "298",
+        "Service Short Name":  "OPAS",
+        "Service Name":  "eOPAS (HR Occupational Health)?",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "298",
+        "HACNAME":  "eOPAS (HR Occupational Health)?"
+    },
+    {
+        "Service ID":  "299",
+        "Service Short Name":  "EPHF",
+        "Service Name":  "EPH?Filestore",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "299",
+        "HACNAME":  "EPH?Filestore"
+    },
+    {
+        "Service ID":  "302",
+        "Service Short Name":  "MSDB",
+        "Service Name":  "SQL Server Database Platform",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "302",
+        "HACNAME":  "SQL Server Database Platform"
+    },
+    {
+        "Service ID":  "304",
+        "Service Short Name":  "OEM",
+        "Service Name":  "Oracle Enterprise Manager",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "304",
+        "HACNAME":  "Oracle Enterprise Manager"
+    },
+    {
+        "Service ID":  "306",
+        "Service Short Name":  "ETL",
+        "Service Name":  "ETL Service",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "306",
+        "HACNAME":  "ETL Service"
+    },
+    {
+        "Service ID":  "308",
+        "Service Short Name":  "DNS",
+        "Service Name":  "DNS Resolvers - External",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "308",
+        "HACNAME":  "DNS Resolvers - External"
+    },
+    {
+        "Service ID":  "309",
+        "Service Short Name":  "SVS",
+        "Service Name":  "ISDDA Test Nodes",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "309",
+        "HACNAME":  "ISDDA Test Nodes"
+    },
+    {
+        "Service ID":  "310",
+        "Service Short Name":  "CSCO",
+        "Service Name":  "Cisco Prime Infrastructure 3.0",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "310",
+        "HACNAME":  "Cisco Prime Infrastructure 3.0"
+    },
+    {
+        "Service ID":  "313",
+        "Service Short Name":  "RHPC",
+        "Service Name":  "RITS HPC Login Nodes",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "01",
+        "HACSID":  "313",
+        "HACNAME":  "RITS HPC Login Nodes"
+    },
+    {
+        "Service ID":  "316",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC Windows Deployment Server",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "316",
+        "HACNAME":  "MRC Windows Deployment Server"
+    },
+    {
+        "Service ID":  "317",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC?CTU Certificate?Server",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "317",
+        "HACNAME":  "MRC?CTU Certificate?Server"
+    },
+    {
+        "Service ID":  "318",
+        "Service Short Name":  "LMCS",
+        "Service Name":  "Small Apps - Millenium Cohort Study",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "318",
+        "HACNAME":  "Small Apps - Millenium Cohort Study"
+    },
+    {
+        "Service ID":  "319",
+        "Service Short Name":  "HAM",
+        "Service Name":  "Hardware Asset Management",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "319",
+        "HACNAME":  "Hardware Asset Management"
+    },
+    {
+        "Service ID":  "320",
+        "Service Short Name":  "MYS",
+        "Service Name":  "MySupporters",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "320",
+        "HACNAME":  "MySupporters"
+    },
+    {
+        "Service ID":  "322",
+        "Service Short Name":  "UD",
+        "Service Name":  "D@U AppSense",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "322",
+        "HACNAME":  "D@U AppSense"
+    },
+    {
+        "Service ID":  "324",
+        "Service Short Name":  "WSUS",
+        "Service Name":  "UCL WSUS",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "324",
+        "HACNAME":  "UCL WSUS"
+    },
+    {
+        "Service ID":  "326",
+        "Service Short Name":  "UD",
+        "Service Name":  "Desktop & User Profiles",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "326",
+        "HACNAME":  "Desktop & User Profiles"
+    },
+    {
+        "Service ID":  "327",
+        "Service Short Name":  "AVIS",
+        "Service Name":  "AV Remote Management",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "327",
+        "HACNAME":  "AV Remote Management"
+    },
+    {
+        "Service ID":  "328",
+        "Service Short Name":  "WWW",
+        "Service Name":  "webcache",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "328",
+        "HACNAME":  "webcache"
+    },
+    {
+        "Service ID":  "330",
+        "Service Short Name":  "REB",
+        "Service Name":  "Small Apps - Rebase",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "330",
+        "HACNAME":  "Small Apps - Rebase"
+    },
+    {
+        "Service ID":  "331",
+        "Service Short Name":  "MBBS",
+        "Service Name":  "Small Apps - MBBS eSystem",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "331",
+        "HACNAME":  "Small Apps - MBBS eSystem"
+    },
+    {
+        "Service ID":  "332",
+        "Service Short Name":  "LXMT",
+        "Service Name":  "Small Apps - Linux MT",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "332",
+        "HACNAME":  "Small Apps - Linux MT"
+    },
+    {
+        "Service ID":  "333",
+        "Service Short Name":  "SNPE",
+        "Service Name":  "Small Apps - Snoopea",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "333",
+        "HACNAME":  "Small Apps - Snoopea"
+    },
+    {
+        "Service ID":  "334",
+        "Service Short Name":  "LMFS",
+        "Service Name":  "Small Apps - Future Services",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "334",
+        "HACNAME":  "Small Apps - Future Services"
+    },
+    {
+        "Service ID":  "335",
+        "Service Short Name":  "LMIC",
+        "Service Name":  "Small Apps - InterConnect?",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "335",
+        "HACNAME":  "Small Apps - InterConnect?"
+    },
+    {
+        "Service ID":  "336",
+        "Service Short Name":  "LMDE",
+        "Service Name":  "Small Apps - Detect?",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "336",
+        "HACNAME":  "Small Apps - Detect?"
+    },
+    {
+        "Service ID":  "337",
+        "Service Short Name":  "MDPA",
+        "Service Name":  "Small Apps - MDPAED?",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "337",
+        "HACNAME":  "Small Apps - MDPAED?"
+    },
+    {
+        "Service ID":  "339",
+        "Service Short Name":  "MAIL",
+        "Service Name":  "Mailman Production",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "339",
+        "HACNAME":  "Mailman Production"
+    },
+    {
+        "Service ID":  "340",
+        "Service Short Name":  "PORT",
+        "Service Name":  "Portico Unity Report Services",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "340",
+        "HACNAME":  "Portico Unity Report Services"
+    },
+    {
+        "Service ID":  "341",
+        "Service Short Name":  "O365",
+        "Service Name":  "Office365 Tools",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "341",
+        "HACNAME":  "Office365 Tools"
+    },
+    {
+        "Service ID":  "342",
+        "Service Short Name":  "UD",
+        "Service Name":  "D@U Anywhere",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "342",
+        "HACNAME":  "D@U Anywhere"
+    },
+    {
+        "Service ID":  "344",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Kiwi Dev & Swan Test",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "344",
+        "HACNAME":  "MRC LHA Kiwi Dev & Swan Test"
+    },
+    {
+        "Service ID":  "345",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Kiwi Prod & Swan Prod",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "345",
+        "HACNAME":  "MRC LHA Kiwi Prod & Swan Prod"
+    },
+    {
+        "Service ID":  "346",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Swallow",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "346",
+        "HACNAME":  "MRC LHA Swallow"
+    },
+    {
+        "Service ID":  "347",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Ubuntu",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "347",
+        "HACNAME":  "MRC LHA Ubuntu"
+    },
+    {
+        "Service ID":  "348",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Starling",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "348",
+        "HACNAME":  "MRC LHA Starling"
+    },
+    {
+        "Service ID":  "349",
+        "Service Short Name":  "TIGR",
+        "Service Name":  "Tiger",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "349",
+        "HACNAME":  "Tiger"
+    },
+    {
+        "Service ID":  "350",
+        "Service Short Name":  "OBPA",
+        "Service Name":  "Business Change Tool",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "350",
+        "HACNAME":  "Business Change Tool"
+    },
+    {
+        "Service ID":  "351",
+        "Service Short Name":  "DMOD",
+        "Service Name":  "ERStudio",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "351",
+        "HACNAME":  "ERStudio"
+    },
+    {
+        "Service ID":  "352",
+        "Service Short Name":  "ILMT",
+        "Service Name":  "ilmt.ad.ucl.ac.uk",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "352",
+        "HACNAME":  "ilmt.ad.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "353",
+        "Service Short Name":  "ALPH",
+        "Service Name":  "ARC (Aleph Reporting Center)",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "353",
+        "HACNAME":  "ARC (Aleph Reporting Center)"
+    },
+    {
+        "Service ID":  "354",
+        "Service Short Name":  "SCOM",
+        "Service Name":  "SCOM",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "354",
+        "HACNAME":  "SCOM"
+    },
+    {
+        "Service ID":  "358",
+        "Service Short Name":  "NFS",
+        "Service Name":  "NFS Protocol File Services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "358",
+        "HACNAME":  "NFS Protocol File Services"
+    },
+    {
+        "Service ID":  "361",
+        "Service Short Name":  "RJNK",
+        "Service Name":  "Research Software - Jenkins",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "361",
+        "HACNAME":  "Research Software - Jenkins"
+    },
+    {
+        "Service ID":  "362",
+        "Service Short Name":  "RCOB",
+        "Service Name":  "Research Software - Cobratron?",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "362",
+        "HACNAME":  "Research Software - Cobratron?"
+    },
+    {
+        "Service ID":  "363",
+        "Service Short Name":  "RPPT",
+        "Service Name":  "Research Software - Puppet",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "363",
+        "HACNAME":  "Research Software - Puppet"
+    },
+    {
+        "Service ID":  "367",
+        "Service Short Name":  "IFSM",
+        "Service Name":  "IFS Media",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "367",
+        "HACNAME":  "IFS Media"
+    },
+    {
+        "Service ID":  "369",
+        "Service Short Name":  "REP",
+        "Service Name":  "Tableau",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "369",
+        "HACNAME":  "Tableau"
+    },
+    {
+        "Service ID":  "371",
+        "Service Short Name":  "API",
+        "Service Name":  "UCL API Marketplace (Web Services Platform)",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "371",
+        "HACNAME":  "UCL API Marketplace (Web Services Platform)"
+    },
+    {
+        "Service ID":  "372",
+        "Service Short Name":  "UMS",
+        "Service Name":  "Unix Management Services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "372",
+        "HACNAME":  "Unix Management Services"
+    },
+    {
+        "Service ID":  "374",
+        "Service Short Name":  "ICOS",
+        "Service Name":  "Small Apps - ICH COSHH",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "374",
+        "HACNAME":  "Small Apps - ICH COSHH"
+    },
+    {
+        "Service ID":  "375",
+        "Service Short Name":  "UTX",
+        "Service Name":  "UNIX Time Sharing Service (socrates)",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "03",
+        "HACSID":  "375",
+        "HACNAME":  "UNIX Time Sharing Service (socrates)"
+    },
+    {
+        "Service ID":  "376",
+        "Service Short Name":  "EGON",
+        "Service Name":  "Egon Stats - Statistical Science",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "03",
+        "HACSID":  "376",
+        "HACNAME":  "Egon Stats - Statistical Science"
+    },
+    {
+        "Service ID":  "377",
+        "Service Short Name":  "YOUS",
+        "Service Name":  "Youseq-galaxy - Research Programme",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "06",
+        "HACSID":  "377",
+        "HACNAME":  "Youseq-galaxy - Research Programme"
+    },
+    {
+        "Service ID":  "378",
+        "Service Short Name":  "AUTO",
+        "Service Name":  "automation-a.isdapp.ucl.ac.uk",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "378",
+        "HACNAME":  "automation-a.isdapp.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "379",
+        "Service Short Name":  "SYNO",
+        "Service Name":  "SynopSYS - IP Alarm",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "04",
+        "HACSID":  "379",
+        "HACNAME":  "SynopSYS - IP Alarm"
+    },
+    {
+        "Service ID":  "380",
+        "Service Short Name":  "SUCR",
+        "Service Name":  "Student Union?CRM?",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "04",
+        "HACSID":  "380",
+        "HACNAME":  "Student Union?CRM?"
+    },
+    {
+        "Service ID":  "381",
+        "Service Short Name":  "LTEK",
+        "Service Name":  "Darca Hertiage - Eltek (Bloomsbury Theatre)",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "05",
+        "HACSID":  "381",
+        "HACNAME":  "Darca Hertiage - Eltek (Bloomsbury Theatre)"
+    },
+    {
+        "Service ID":  "382",
+        "Service Short Name":  "RSTU",
+        "Service Name":  "R Studio",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "382",
+        "HACNAME":  "R Studio"
+    },
+    {
+        "Service ID":  "383",
+        "Service Short Name":  "TSR",
+        "Service Name":  "DCS wiki (tsr-a.ucl.ac.uk)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "383",
+        "HACNAME":  "DCS wiki (tsr-a.ucl.ac.uk)"
+    },
+    {
+        "Service ID":  "384",
+        "Service Short Name":  "IQP",
+        "Service Name":  "SLMS ICH QPulse",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "384",
+        "HACNAME":  "SLMS ICH QPulse"
+    },
+    {
+        "Service ID":  "385",
+        "Service Short Name":  "DHCP",
+        "Service Name":  "WIS DHCP",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "385",
+        "HACNAME":  "WIS DHCP"
+    },
+    {
+        "Service ID":  "386",
+        "Service Short Name":  "BKP",
+        "Service Name":  "Backup Proxy Servers (MIG 2258)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "04",
+        "HACSID":  "386",
+        "HACNAME":  "Backup Proxy Servers (MIG 2258)"
+    },
+    {
+        "Service ID":  "387",
+        "Service Short Name":  "DIS",
+        "Service Name":  "DIS (Dept Information Studies)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "387",
+        "HACNAME":  "DIS (Dept Information Studies)"
+    },
+    {
+        "Service ID":  "388",
+        "Service Short Name":  "EBMS",
+        "Service Name":  "Struxureware (ebms)",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "04",
+        "HACSID":  "388",
+        "HACNAME":  "Struxureware (ebms)"
+    },
+    {
+        "Service ID":  "389",
+        "Service Short Name":  "WDFS",
+        "Service Name":  "Home drive lookup tool (webdfs01.ad.ucl.ac.uk)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "389",
+        "HACNAME":  "Home drive lookup tool (webdfs01.ad.ucl.ac.uk)"
+    },
+    {
+        "Service ID":  "390",
+        "Service Short Name":  "UD",
+        "Service Name":  "Load gen",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "390",
+        "HACNAME":  "Load gen"
+    },
+    {
+        "Service ID":  "391",
+        "Service Short Name":  "UD",
+        "Service Name":  "Control Up?",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "391",
+        "HACNAME":  "Control Up?"
+    },
+    {
+        "Service ID":  "392",
+        "Service Short Name":  "RAD",
+        "Service Name":  "Radius-a (DCS)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "392",
+        "HACNAME":  "Radius-a (DCS)"
+    },
+    {
+        "Service ID":  "393",
+        "Service Short Name":  "LAWS",
+        "Service Name":  "Laws?",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "02",
+        "HACSID":  "393",
+        "HACNAME":  "Laws?"
+    },
+    {
+        "Service ID":  "394",
+        "Service Short Name":  "TSR",
+        "Service Name":  "TSR (DCS)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "394",
+        "HACNAME":  "TSR (DCS)"
+    },
+    {
+        "Service ID":  "395",
+        "Service Short Name":  "MSDB",
+        "Service Name":  "Database (SQL) x 2 (MIG 2238)",
+        "BUName":  "Database Services",
+        "BUID":  "03",
+        "SubID":  "00",
+        "HACSID":  "395",
+        "HACNAME":  "Database (SQL) x 2 (MIG 2238)"
+    },
+    {
+        "Service ID":  "396",
+        "Service Short Name":  "ORAC",
+        "Service Name":  "UPK (Oracle)",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "396",
+        "HACNAME":  "UPK (Oracle)"
+    },
+    {
+        "Service ID":  "397",
+        "Service Short Name":  "HIS",
+        "Service Name":  "Sys Admin",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "397",
+        "HACNAME":  "Sys Admin"
+    },
+    {
+        "Service ID":  "398",
+        "Service Short Name":  "ADVC",
+        "Service Name":  "UCL Advances -?applab-a.ucl.ac.uk",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "07",
+        "HACSID":  "398",
+        "HACNAME":  "UCL Advances -?applab-a.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "399",
+        "Service Short Name":  "ADC",
+        "Service Name":  "AD Management?",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "399",
+        "HACNAME":  "AD Management?"
+    },
+    {
+        "Service ID":  "400",
+        "Service Short Name":  "CSO",
+        "Service Name":  "CSO - cso-a.ucl.ac.uk",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "400",
+        "HACNAME":  "CSO - cso-a.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "401",
+        "Service Short Name":  "RWIK",
+        "Service Name":  "RC Wiki -?wwwrc-a.rc.ucl.ac.uk",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "401",
+        "HACNAME":  "RC Wiki -?wwwrc-a.rc.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "402",
+        "Service Short Name":  "IFW",
+        "Service Name":  "Network Infrastructure -?ifwl-a.ucl-0.ucl.ac.uk",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "402",
+        "HACNAME":  "Network Infrastructure -?ifwl-a.ucl-0.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "403",
+        "Service Short Name":  "PHAM",
+        "Service Name":  "UCL Pharmacy -?pharmacyapp-a.ucl.ac.uk",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "08",
+        "HACSID":  "403",
+        "HACNAME":  "UCL Pharmacy -?pharmacyapp-a.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "405",
+        "Service Short Name":  "FOGH",
+        "Service Name":  "Network Infrastructure - foghorn.nwg.ucl.ac.uk",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "405",
+        "HACNAME":  "Network Infrastructure - foghorn.nwg.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "406",
+        "Service Short Name":  "RNCD",
+        "Service Name":  "Network Infrastructure -?rancid.nwg.ucl.ac.uk",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "406",
+        "HACNAME":  "Network Infrastructure -?rancid.nwg.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "407",
+        "Service Short Name":  "GLOG",
+        "Service Name":  "DCS Infrastructure - glog-a.ucl-0.ucl.ac.uk",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "407",
+        "HACNAME":  "DCS Infrastructure - glog-a.ucl-0.ucl.ac.uk"
+    },
+    {
+        "Service ID":  "409",
+        "Service Short Name":  "ARUB",
+        "Service Name":  "Aruba Airwave",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "409",
+        "HACNAME":  "Aruba Airwave"
+    },
+    {
+        "Service ID":  "411",
+        "Service Short Name":  "LERU",
+        "Service Name":  "League of European Research Universities (LERU)",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "411",
+        "HACNAME":  "League of European Research Universities (LERU)"
+    },
+    {
+        "Service ID":  "412",
+        "Service Short Name":  "WWW",
+        "Service Name":  "wwws",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "412",
+        "HACNAME":  "wwws"
+    },
+    {
+        "Service ID":  "414",
+        "Service Short Name":  "NMON",
+        "Service Name":  "Tactical Monitoring for Network Devices",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "414",
+        "HACNAME":  "Tactical Monitoring for Network Devices"
+    },
+    {
+        "Service ID":  "415",
+        "Service Short Name":  "UGST",
+        "Service Name":  "UCL Guest",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "415",
+        "HACNAME":  "UCL Guest"
+    },
+    {
+        "Service ID":  "416",
+        "Service Short Name":  "PKI",
+        "Service Name":  "Windows PKI",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "416",
+        "HACNAME":  "Windows PKI"
+    },
+    {
+        "Service ID":  "418",
+        "Service Short Name":  "VSCN",
+        "Service Name":  "VSCAN-Prof",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "04",
+        "HACSID":  "418",
+        "HACNAME":  "VSCAN-Prof"
+    },
+    {
+        "Service ID":  "419",
+        "Service Short Name":  "EMON",
+        "Service Name":  "Estates Electrical Monitoring (EMON)",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "04",
+        "HACSID":  "419",
+        "HACNAME":  "Estates Electrical Monitoring (EMON)"
+    },
+    {
+        "Service ID":  "421",
+        "Service Short Name":  "PERS",
+        "Service Name":  "Legacy Personal Homepages",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "421",
+        "HACNAME":  "Legacy Personal Homepages"
+    },
+    {
+        "Service ID":  "423",
+        "Service Short Name":  "LMBS",
+        "Service Name":  "Small Apps - BioScience",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "423",
+        "HACNAME":  "Small Apps - BioScience"
+    },
+    {
+        "Service ID":  "425",
+        "Service Short Name":  "LTDB",
+        "Service Name":  "Small App Hosting -?Lung tissue database",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "425",
+        "HACNAME":  "Small App Hosting -?Lung tissue database"
+    },
+    {
+        "Service ID":  "427",
+        "Service Short Name":  "TBP",
+        "Service Name":  "Transcribe Bentham?project",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "427",
+        "HACNAME":  "Transcribe Bentham?project"
+    },
+    {
+        "Service ID":  "429",
+        "Service Short Name":  "WDOC",
+        "Service Name":  "web - general (webdocs)",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "429",
+        "HACNAME":  "web - general (webdocs)"
+    },
+    {
+        "Service ID":  "431",
+        "Service Short Name":  "JNKS",
+        "Service Name":  "Jenkins",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "431",
+        "HACNAME":  "Jenkins"
+    },
+    {
+        "Service ID":  "432",
+        "Service Short Name":  "LMNS",
+        "Service Name":  "UCL Neurosciences",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "432",
+        "HACNAME":  "UCL Neurosciences"
+    },
+    {
+        "Service ID":  "434",
+        "Service Short Name":  "MRC",
+        "Service Name":  "MRC LHA Finch",
+        "BUName":  "MRC",
+        "BUID":  "12",
+        "SubID":  "00",
+        "HACSID":  "434",
+        "HACNAME":  "MRC LHA Finch"
+    },
+    {
+        "Service ID":  "437",
+        "Service Short Name":  "AFCT",
+        "Service Name":  "Artefact Repository",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "437",
+        "HACNAME":  "Artefact Repository"
+    },
+    {
+        "Service ID":  "438",
+        "Service Short Name":  "ECRF",
+        "Service Name":  "NeuroSAFE eCRF Study",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "438",
+        "HACNAME":  "NeuroSAFE eCRF Study"
+    },
+    {
+        "Service ID":  "440",
+        "Service Short Name":  "UD",
+        "Service Name":  "Device Out-Of-Band Management",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "440",
+        "HACNAME":  "Device Out-Of-Band Management"
+    },
+    {
+        "Service ID":  "442",
+        "Service Short Name":  "TIP",
+        "Service Name":  "Threat Intelligence Platform",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "442",
+        "HACNAME":  "Threat Intelligence Platform"
+    },
+    {
+        "Service ID":  "444",
+        "Service Short Name":  "ALMA",
+        "Service Name":  "ALMA",
+        "BUName":  "Library and Museums",
+        "BUID":  "07",
+        "SubID":  "00",
+        "HACSID":  "444",
+        "HACNAME":  "ALMA"
+    },
+    {
+        "Service ID":  "446",
+        "Service Short Name":  "EDPM",
+        "Service Name":  "Edstrom Pulse Monitoring",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "446",
+        "HACNAME":  "Edstrom Pulse Monitoring"
+    },
+    {
+        "Service ID":  "447",
+        "Service Short Name":  "SUEX",
+        "Service Name":  "Student Union - Exchequer",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "04",
+        "HACSID":  "447",
+        "HACNAME":  "Student Union - Exchequer"
+    },
+    {
+        "Service ID":  "448",
+        "Service Short Name":  "ZCR",
+        "Service Name":  "Zayed Centre for Research",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "448",
+        "HACNAME":  "Zayed Centre for Research"
+    },
+    {
+        "Service ID":  "449",
+        "Service Short Name":  "QSBB",
+        "Service Name":  "QSBB Olympus Scanner",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "449",
+        "HACNAME":  "QSBB Olympus Scanner"
+    },
+    {
+        "Service ID":  "451",
+        "Service Short Name":  "AMS",
+        "Service Name":  "Attendance Monitoring System",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "451",
+        "HACNAME":  "Attendance Monitoring System"
+    },
+    {
+        "Service ID":  "452",
+        "Service Short Name":  "FMAK",
+        "Service Name":  "Filemaker (KeyDB) Security",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "00",
+        "HACSID":  "452",
+        "HACNAME":  "Filemaker (KeyDB) Security"
+    },
+    {
+        "Service ID":  "453",
+        "Service Short Name":  "MEFS",
+        "Service Name":  "Small Apps - Minus 80 Freezers for Surgery",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "453",
+        "HACNAME":  "Small Apps - Minus 80 Freezers for Surgery"
+    },
+    {
+        "Service ID":  "454",
+        "Service Short Name":  "RFAS",
+        "Service Name":  "Small Apps -?Exgarde Access Systems for Royal Free",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "02",
+        "HACSID":  "454",
+        "HACNAME":  "Small Apps -?Exgarde Access Systems for Royal Free"
+    },
+    {
+        "Service ID":  "456",
+        "Service Short Name":  "SID",
+        "Service Name":  "Student S Platform",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "456",
+        "HACNAME":  "Student S Platform"
+    },
+    {
+        "Service ID":  "458",
+        "Service Short Name":  "SPD",
+        "Service Name":  "Speed Test services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "458",
+        "HACNAME":  "Speed Test services"
+    },
+    {
+        "Service ID":  "460",
+        "Service Short Name":  "AD",
+        "Service Name":  "Resource Domain for Organisation Collaboration",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "460",
+        "HACNAME":  "Resource Domain for Organisation Collaboration"
+    },
+    {
+        "Service ID":  "463",
+        "Service Short Name":  "PSUD",
+        "Service Name":  "Universal Dashboard Interactive Dashboard",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "463",
+        "HACNAME":  "Universal Dashboard Interactive Dashboard"
+    },
+    {
+        "Service ID":  "465",
+        "Service Short Name":  "JAMF",
+        "Service Name":  "Provisioning Services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "465",
+        "HACNAME":  "Provisioning Services"
+    },
+    {
+        "Service ID":  "466",
+        "Service Short Name":  "ANSI",
+        "Service Name":  "Ansible Engine",
+        "BUName":  "Network Services",
+        "BUID":  "05",
+        "SubID":  "00",
+        "HACSID":  "466",
+        "HACNAME":  "Ansible Engine"
+    },
+    {
+        "Service ID":  "467",
+        "Service Short Name":  "RPA",
+        "Service Name":  "RPA Management Server",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "467",
+        "HACNAME":  "RPA Management Server"
+    },
+    {
+        "Service ID":  "475",
+        "Service Short Name":  "FSAV",
+        "Service Name":  "FSecure AntiVirus",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "475",
+        "HACNAME":  "FSecure AntiVirus"
+    },
+    {
+        "Service ID":  "478",
+        "Service Short Name":  "WIS",
+        "Service Name":  "WIS Utility Server",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "02",
+        "HACSID":  "478",
+        "HACNAME":  "WIS Utility Server"
+    },
+    {
+        "Service ID":  "479",
+        "Service Short Name":  "UD",
+        "Service Name":  "Desktop Application Licencing",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "479",
+        "HACNAME":  "Desktop Application Licencing"
+    },
+    {
+        "Service ID":  "481",
+        "Service Short Name":  "EXAM",
+        "Service Name":  "Examination Timetabling Application Server",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "481",
+        "HACNAME":  "Examination Timetabling Application Server"
+    },
+    {
+        "Service ID":  "483",
+        "Service Short Name":  "EXAM",
+        "Service Name":  "Examination Timetabling ETL Server",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "483",
+        "HACNAME":  "Examination Timetabling ETL Server"
+    },
+    {
+        "Service ID":  "484",
+        "Service Short Name":  "DSIG",
+        "Service Name":  "Digital Signage Server",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "484",
+        "HACNAME":  "Digital Signage Server"
+    },
+    {
+        "Service ID":  "485",
+        "Service Short Name":  "BOBI",
+        "Service Name":  "Business Objects Business Intelligence",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "485",
+        "HACNAME":  "Business Objects Business Intelligence"
+    },
+    {
+        "Service ID":  "487",
+        "Service Short Name":  "UCC",
+        "Service Name":  "Session Border Controller",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "487",
+        "HACNAME":  "Session Border Controller"
+    },
+    {
+        "Service ID":  "488",
+        "Service Short Name":  "NMAT",
+        "Service Name":  "UCC Network Media Assessment Tool",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "488",
+        "HACNAME":  "UCC Network Media Assessment Tool"
+    },
+    {
+        "Service ID":  "489",
+        "Service Short Name":  "OVOC",
+        "Service Name":  "One Voice Operations Center",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "489",
+        "HACNAME":  "One Voice Operations Center"
+    },
+    {
+        "Service ID":  "491",
+        "Service Short Name":  "PRCL",
+        "Service Name":  "Proclaim Server",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "491",
+        "HACNAME":  "Proclaim Server"
+    },
+    {
+        "Service ID":  "493",
+        "Service Short Name":  "TPAZ",
+        "Service Name":  "Topaz Financials Server",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "493",
+        "HACNAME":  "Topaz Financials Server"
+    },
+    {
+        "Service ID":  "494",
+        "Service Short Name":  "SABS",
+        "Service Name":  "Student Attendance Broker Service",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "494",
+        "HACNAME":  "Student Attendance Broker Service"
+    },
+    {
+        "Service ID":  "496",
+        "Service Short Name":  "UPSM",
+        "Service Name":  "UPS Management",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "496",
+        "HACNAME":  "UPS Management"
+    },
+    {
+        "Service ID":  "497",
+        "Service Short Name":  "ILS",
+        "Service Name":  "IoE Legacy Student",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "497",
+        "HACNAME":  "IoE Legacy Student"
+    },
+    {
+        "Service ID":  "498",
+        "Service Short Name":  "ILH",
+        "Service Name":  "IoE Legacy HR",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "498",
+        "HACNAME":  "IoE Legacy HR"
+    },
+    {
+        "Service ID":  "499",
+        "Service Short Name":  "ILP",
+        "Service Name":  "IoE Legacy Payroll",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "499",
+        "HACNAME":  "IoE Legacy Payroll"
+    },
+    {
+        "Service ID":  "500",
+        "Service Short Name":  "ILF",
+        "Service Name":  "IoE Legacy Finance",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "500",
+        "HACNAME":  "IoE Legacy Finance"
+    },
+    {
+        "Service ID":  "501",
+        "Service Short Name":  "ILR",
+        "Service Name":  "IoE Legacy Research Finance",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "501",
+        "HACNAME":  "IoE Legacy Research Finance"
+    },
+    {
+        "Service ID":  "503",
+        "Service Short Name":  "ICA",
+        "Service Name":  "UCL IoE Catering",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "503",
+        "HACNAME":  "UCL IoE Catering"
+    },
+    {
+        "Service ID":  "505",
+        "Service Short Name":  "CONF",
+        "Service Name":  "UCL Conferencing",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "505",
+        "HACNAME":  "UCL Conferencing"
+    },
+    {
+        "Service ID":  "506",
+        "Service Short Name":  "HIDT",
+        "Service Name":  "Institute of Health Informatics - Datascience Teaching",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "00",
+        "HACSID":  "506",
+        "HACNAME":  "Institute of Health Informatics - Datascience Teaching"
+    },
+    {
+        "Service ID":  "507",
+        "Service Short Name":  "VULN",
+        "Service Name":  "Information Services Group - Vulnerability Management",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "507",
+        "HACNAME":  "Information Services Group - Vulnerability Management"
+    },
+    {
+        "Service ID":  "509",
+        "Service Short Name":  "CLSR",
+        "Service Name":  "IOE?Cohort and Longitudinal Studies Enhancement Resources (CLOSER) Service",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "509",
+        "HACNAME":  "IOE?Cohort and Longitudinal Studies Enhancement Resources (CLOSER) Service"
+    },
+    {
+        "Service ID":  "510",
+        "Service Short Name":  "CCCS",
+        "Service Name":  "Chemistry CCS Servers",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "09",
+        "HACSID":  "510",
+        "HACNAME":  "Chemistry CCS Servers"
+    },
+    {
+        "Service ID":  "512",
+        "Service Short Name":  "STUT",
+        "Service Name":  "StuTalk",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "512",
+        "HACNAME":  "StuTalk"
+    },
+    {
+        "Service ID":  "513",
+        "Service Short Name":  "TMP",
+        "Service Name":  "Temporary Deployments",
+        "BUName":  "BU/ID for HAC platform short-term VMs",
+        "BUID":  "16",
+        "SubID":  "00",
+        "HACSID":  "513",
+        "HACNAME":  "Temporary Deployments"
+    },
+    {
+        "Service ID":  "514",
+        "Service Short Name":  "LMIT",
+        "Service Name":  "Small Apps - Itemtracker",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "514",
+        "HACNAME":  "Small Apps - Itemtracker"
+    },
+    {
+        "Service ID":  "515",
+        "Service Short Name":  "VRA",
+        "Service Name":  "vRealize Automation",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "515",
+        "HACNAME":  "vRealize Automation"
+    },
+    {
+        "Service ID":  "516",
+        "Service Short Name":  "UD",
+        "Service Name":  "Desktop Application Packaging",
+        "BUName":  "Desktop Services",
+        "BUID":  "04",
+        "SubID":  "00",
+        "HACSID":  "516",
+        "HACNAME":  "Desktop Application Packaging"
+    },
+    {
+        "Service ID":  "517",
+        "Service Short Name":  "MDIS",
+        "Service Name":  "MyDispense",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "08",
+        "HACSID":  "517",
+        "HACNAME":  "MyDispense"
+    },
+    {
+        "Service ID":  "518",
+        "Service Short Name":  "NDB",
+        "Service Name":  "NeoTree",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "518",
+        "HACNAME":  "NeoTree"
+    },
+    {
+        "Service ID":  "519",
+        "Service Short Name":  "SBSM",
+        "Service Name":  "SUMMIT Blood Samples Management",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "519",
+        "HACNAME":  "SUMMIT Blood Samples Management"
+    },
+    {
+        "Service ID":  "520",
+        "Service Short Name":  "EJP",
+        "Service Name":  "External Jump Box",
+        "BUName":  "Segregated Applications/Services",
+        "BUID":  "14",
+        "SubID":  "05",
+        "HACSID":  "520",
+        "HACNAME":  "External Jump Box"
+    },
+    {
+        "Service ID":  "521",
+        "Service Short Name":  "NPS",
+        "Service Name":  "NPS for Azure AD MFA",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "01",
+        "HACSID":  "521",
+        "HACNAME":  "NPS for Azure AD MFA"
+    },
+    {
+        "Service ID":  "523",
+        "Service Short Name":  "QB",
+        "Service Name":  "QuickBooks",
+        "BUName":  "Finance & HR",
+        "BUID":  "06",
+        "SubID":  "00",
+        "HACSID":  "523",
+        "HACNAME":  "QuickBooks"
+    },
+    {
+        "Service ID":  "524",
+        "Service Short Name":  "FRRA",
+        "Service Name":  "Fragments of the Roman Republican Antiquarians",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "524",
+        "HACNAME":  "Fragments of the Roman Republican Antiquarians"
+    },
+    {
+        "Service ID":  "526",
+        "Service Short Name":  "ITCPD",
+        "Service Name":  "ITCPD Timesheet Portal",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "526",
+        "HACNAME":  "ITCPD Timesheet Portal"
+    },
+    {
+        "Service ID":  "527",
+        "Service Short Name":  "RSTU",
+        "Service Name":  "RITS RStudio Service",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "527",
+        "HACNAME":  "RITS RStudio Service"
+    },
+    {
+        "Service ID":  "528",
+        "Service Short Name":  "III",
+        "Service Name":  "Infection and immunity for a PSRL DB",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "00",
+        "HACSID":  "528",
+        "HACNAME":  "Infection and immunity for a PSRL DB"
+    },
+    {
+        "Service ID":  "529",
+        "Service Short Name":  "RFRM",
+        "Service Name":  "Render Farm",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "529",
+        "HACNAME":  "Render Farm"
+    },
+    {
+        "Service ID":  "530",
+        "Service Short Name":  "IAPM",
+        "Service Name":  "Infrastructure and Application Performance Monitoring",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "530",
+        "HACNAME":  "Infrastructure and Application Performance Monitoring"
+    },
+    {
+        "Service ID":  "531",
+        "Service Short Name":  "RDSS",
+        "Service Name":  "RDSS Portals",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "531",
+        "HACNAME":  "RDSS Portals"
+    },
+    {
+        "Service ID":  "532",
+        "Service Short Name":  "RLWY",
+        "Service Name":  "Civil Engineering Railway Analytics",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "00",
+        "HACSID":  "532",
+        "HACNAME":  "Civil Engineering Railway Analytics"
+    },
+    {
+        "Service ID":  "533",
+        "Service Short Name":  "DSHA",
+        "Service Name":  "Data Safe Haven - Research App Stack Repository",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "533",
+        "HACNAME":  "Data Safe Haven - Research App Stack Repository"
+    },
+    {
+        "Service ID":  "258",
+        "Service Short Name":  "FTST",
+        "Service Name":  "NetApp",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "04",
+        "HACSID":  "258",
+        "HACNAME":  "NetApp"
+    },
+    {
+        "Service ID":  "535",
+        "Service Short Name":  "RMED",
+        "Service Name":  "Department of Renal Medicine",
+        "BUName":  "SLMS",
+        "BUID":  "11",
+        "SubID":  "00",
+        "HACSID":  "535",
+        "HACNAME":  "Department of Renal Medicine"
+    },
+    {
+        "Service ID":  "536",
+        "Service Short Name":  "FTST",
+        "Service Name":  "Test NetApp Filestore",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "07",
+        "HACSID":  "536",
+        "HACNAME":  "Test NetApp Filestore"
+    },
+    {
+        "Service ID":  "537",
+        "Service Short Name":  "DPOC",
+        "Service Name":  "Drupal Proof of Concept",
+        "BUName":  "Web Services",
+        "BUID":  "02",
+        "SubID":  "00",
+        "HACSID":  "537",
+        "HACNAME":  "Drupal Proof of Concept"
+    },
+    {
+        "Service ID":  "538",
+        "Service Short Name":  "BLC",
+        "Service Name":  "UCLP Bedside Learning Co-ordinator app",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "00",
+        "HACSID":  "538",
+        "HACNAME":  "UCLP Bedside Learning Co-ordinator app"
+    },
+    {
+        "Service ID":  "539",
+        "Service Short Name":  "RSDS",
+        "Service Name":  "Research Software Dashboard / Signup (Prod)",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "539",
+        "HACNAME":  "Research Software Dashboard / Signup (Prod)"
+    },
+    {
+        "Service ID":  "540",
+        "Service Short Name":  "RSDS",
+        "Service Name":  "Research Software Dashboard / Signup (non-Prod)",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "540",
+        "HACNAME":  "Research Software Dashboard / Signup (non-Prod)"
+    },
+    {
+        "Service ID":  "541",
+        "Service Short Name":  "CFDE",
+        "Service Name":  "CORA Finance Data Export",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "00",
+        "HACSID":  "541",
+        "HACNAME":  "CORA Finance Data Export"
+    },
+    {
+        "Service ID":  "542",
+        "Service Short Name":  "SIMA",
+        "Service Name":  "SimaPro backend server",
+        "BUName":  "Departments (ISD provided VMs)",
+        "BUID":  "15",
+        "SubID":  "00",
+        "HACSID":  "542",
+        "HACNAME":  "SimaPro backend server"
+    },
+    {
+        "Service ID":  "543",
+        "Service Short Name":  "CIAT",
+        "Service Name":  "Infrastructure Automation (Cloud Infrastructure team)",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "543",
+        "HACNAME":  "Infrastructure Automation (Cloud Infrastructure team)"
+    },
+    {
+        "Service ID":  "544",
+        "Service Short Name":  "SNQB",
+        "Service Name":  "SonarQube",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "544",
+        "HACNAME":  "SonarQube"
+    },
+    {
+        "Service ID":  "545",
+        "Service Short Name":  "IAM",
+        "Service Name":  "Identity Applications and Management Services",
+        "BUName":  "Infrastructure Applications & Services",
+        "BUID":  "01",
+        "SubID":  "00",
+        "HACSID":  "545",
+        "HACNAME":  "Identity Applications and Management Services"
+    },
+    {
+        "Service ID":  "546",
+        "Service Short Name":  "DICE",
+        "Service Name":  "Data Infrastructure Capacity for EOSC",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "546",
+        "HACNAME":  "Data Infrastructure Capacity for EOSC"
+    },
+    {
+        "Service ID":  "547",
+        "Service Short Name":  "ADTP",
+        "Service Name":  "Digital Transcript Processing",
+        "BUName":  "Student Systems",
+        "BUID":  "09",
+        "SubID":  "00",
+        "HACSID":  "547",
+        "HACNAME":  "Digital Transcript Processing"
+    },
+    {
+        "Service ID":  "548",
+        "Service Short Name":  "XNAT",
+        "Service Name":  "XNAT Monitoring Service",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "548",
+        "HACNAME":  "XNAT Monitoring Service"
+    },
+    {
+        "Service ID":  "549",
+        "Service Short Name":  "RCLD",
+        "Service Name":  "Research Compute Cloud",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "549",
+        "HACNAME":  "Research Compute Cloud"
+    },
+    {
+        "Service ID":  "550",
+        "Service Short Name":  "FUS",
+        "Service Name":  "Fusion AV",
+        "BUName":  "Learning & Teaching",
+        "BUID":  "08",
+        "SubID":  "00",
+        "HACSID":  "550",
+        "HACNAME":  "Fusion AV"
+    },
+    {
+        "Service ID":  "551",
+        "Service Short Name":  "PBI",
+        "Service Name":  "PowerBI",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "551",
+        "HACNAME":  "PowerBI"
+    },
+    {
+        "Service ID":  "552",
+        "Service Short Name":  "TDCA",
+        "Service Name":  "Turing IG Data Classification App",
+        "BUName":  "Research Systems",
+        "BUID":  "10",
+        "SubID":  "00",
+        "HACSID":  "552",
+        "HACNAME":  "Turing IG Data Classification App"
+    },
+    {
+        "Service ID":  "553",
+        "Service Short Name":  "IPDS",
+        "Service Name":  "Integration Platform DataSync",
+        "BUName":  "Enterprise Applications",
+        "BUID":  "13",
+        "SubID":  "00",
+        "HACSID":  "553",
+        "HACNAME":  "Integration Platform DataSync"
+    }
+]
