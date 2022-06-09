@@ -1,4 +1,5 @@
-    {
+    [
+        {
         "Service ID":  "005",
         "Service Short Name":  "DNS",
         "Service Name":  "DNS Resolvers",
@@ -4068,3 +4069,4 @@
         "HACSID":  "553",
         "HACNAME":  "Integration Platform DataSync"
     }
+]
